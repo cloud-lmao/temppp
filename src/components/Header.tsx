@@ -23,7 +23,7 @@ const Header: React.FC<HeaderProps> = ({ isDarkMode, toggleDarkMode, learningMod
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-2 sm:space-x-4 min-w-0 flex-1">
               <h1 className="text-lg sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent truncate">
-                <span className="text-sm sm:text-lg md:text-2xl">Switching Techniques Day 4</span>
+                <span className="text-sm sm:text-lg md:text-2xl">Network Devices Day 5</span>
               </h1>
             </div>
             
